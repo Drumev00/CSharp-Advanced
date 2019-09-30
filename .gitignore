@@ -1,0 +1,10 @@
+*.exe
+*.config
+*.pdb
+*.cache
+*.txt
+
+bin
+obj
+*.sln
+*.sln
